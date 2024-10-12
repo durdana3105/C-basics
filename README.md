@@ -1,2 +1,3 @@
 # C-basics
-Thisincludes basics programs of c 
+This includes basics programs of c.
+This is for beginners and get brief idea about c programming.
